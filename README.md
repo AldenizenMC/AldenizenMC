@@ -8,10 +8,10 @@
 
 ## Connect with me
 
-- <img src="https://simpleicons.org/icons/discord.svg" style="height:15px"> AldenizenMC#1418
-- <img src="https://simpleicons.org/icons/replit.svg" style="height:15px"> [@AldenizenMC](https://replit.com/@AldenizenMC)
-- <img src="https://simpleicons.org/icons/stackoverflow.svg" style="height:15px"> [AldenizenMC](https://stackoverflow.com/users/14883530/aldenizenmc)
-- <img src="https://simpleicons.org/icons/youtube.svg" style="height:15px"> [AldenizenMC](https://www.youtube.com/channel/UCN5KNscEIcEATms4e1P5vzw)
-- <img src="https://simpleicons.org/icons/twitter.svg" style="height:15px"> [@aldenizenmc](https://twitter.com/aldenizenmc)
-- <img src="https://simpleicons.org/icons/twitch.svg" style="height:15px"> [aldenizenmc](https://www.twitch.tv/aldenizenmc)
-- <img src="https://simpleicons.org/icons/steam.svg" style="height:15px"> [AldenizenMC](https://steamcommunity.com/id/aldenizen69/)
+- <img src="https://api.iconify.design/simple-icons/discord.svg?color=blue" style="height:15px"> AldenizenMC#1418
+- <img src="https://api.iconify.design/simple-icons/replit.svg?color=gray" style="height:15px"> [@AldenizenMC](https://replit.com/@AldenizenMC)
+- <img src="https://api.iconify.design/simple-icons/stackoverflow.svg?color=orange" style="height:15px"> [AldenizenMC](https://stackoverflow.com/users/14883530/aldenizenmc)
+- <img src="https://api.iconify.design/simple-icons/youtube.svg?color=red" style="height:15px"> [AldenizenMC](https://www.youtube.com/channel/UCN5KNscEIcEATms4e1P5vzw)
+- <img src="https://api.iconify.design/simple-icons/twitter.svg?color=lightblue" style="height:15px"> [@aldenizenmc](https://twitter.com/aldenizenmc)
+- <img src="https://api.iconify.design/simple-icons/twitch.svg?color=purple" style="height:15px"> [aldenizenmc](https://www.twitch.tv/aldenizenmc)
+- <img src="https://api.iconify.design/simple-icons/steam.svg?color=blue" style="height:15px"> [AldenizenMC](https://steamcommunity.com/id/aldenizen69/)
