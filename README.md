@@ -1,4 +1,6 @@
 <h1 align=center>Hello World!</h1>
+Hi, I'm Alden also known as AldenizenMC online. I am a 13 year old self-taught developer. I like to create random things that comes up on my mind. My favorite languages are JavaScript and TypeScript. I also sucks at creating user interface, especially in HTML & CSS
+
 
 ## <img src="./icons/wrench_darkmode.png#gh-dark-mode-only" height=20px><img src="./icons/wrench_lightmode.png#gh-light-mode-only" height=20px> Languages and Tools
 
