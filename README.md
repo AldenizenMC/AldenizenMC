@@ -1,4 +1,5 @@
-<h1 align=center>Hello World!</h1>
+<h1 align=center>Hello World! I'm AldenizenMC</h1>
+
 
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -9,12 +10,30 @@
     </a>
 </div>
 
-## Connect with me
+## <img src="./icons/wrench_darkmode.png#gh-dark-mode-only" height=20px><img src="./icons/wrench_lightmode.png#gh-light-mode-only" height=20px> Languages and Tools
 
-- <img src="https://img.icons8.com/color/344/discord--v2.png" style="height:17px"> AldenizenMC#1418
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/2048px-Repl.it_logo.svg.png" style="height:21px"> [@AldenizenMC](https://replit.com/@AldenizenMC)
-- <img src="https://img.icons8.com/color/452/stackoverflow.png" style="height:17px"> [AldenizenMC](https://stackoverflow.com/users/14883530/aldenizenmc)
-- <img src="https://img.icons8.com/color/344/youtube-play.png" style="height:17px"> [AldenizenMC](https://www.youtube.com/channel/UCN5KNscEIcEATms4e1P5vzw)
-- <img src="https://img.icons8.com/color/344/twitter.png" style="height:19px"> [@aldenizenmc](https://twitter.com/aldenizenmc)
-- <img src="https://img.icons8.com/color/344/twitch--v2.png" style="height:17px"> [aldenizenmc](https://www.twitch.tv/aldenizenmc)
-- <img src="https://img.icons8.com/color/344/steam-circled.png" style="height:17px"> [AldenizenMC](https://steamcommunity.com/id/aldenizen69/)
+<a href="https://www.javascript.com/"><img height=40px src="./icons/javascript.png" alt="Javascript"></a>
+<a href="https://www.typescriptlang.org/"><img height=40px src="./icons/typescript.png" alt="Typescript"></a>
+<a href="https://www.python.org/"><img height=40px src="./icons/python.png"></a>
+<a href=""><img height=40px src="./icons/csharp.png"></a>
+<a href=""><img height=40px src="./icons/html.png"></a>
+<a href=""><img height=40px src="./icons/css.png"></a>
+<a href="https://bulma.io/"><img height=40px src="./icons/bulma.png"></a>
+<a href="https://nodejs.org/"><img height=40px src="./icons/nodejs.png" alt="NodeJS"></a>
+<a href="https://visualstudio.com"><img height=40px src="./icons/visualstudio.png" alt="Visual Studio"></a>
+<a href="https://code.visualstudio.com"><img height=40px src="./icons/vscode.png" alt="Visual Studio Code"></a>
+<a href="https://github.com/"><img height=40px src="./icons/github_darkmode.png#gh-dark-mode-only" alt="GitHub"><img height=40px src="./icons/github_lightmode.png#gh-light-mode-only" alt="GitHub"></a>
+<a href="https://git-scm.com/"><img height=40px src="./icons/git.png"></a>
+<a href="https://www.postman.com/"><img height=40px src="./icons/postman.png"></a>
+<a href="https://replit.com/"><img height=40px src="./icons/replit_darkmode.png#gh-dark-mode-only"><img height=40px src="./icons/replit_lightmode.png#gh-light-mode-only"></a>
+<a href="https://glitch.com/"><img height=35px src="./icons/glitch.png"></a>
+<a href="https://www.mongodb.com/"><img height=40px src="./icons/mongodb.png"></a>
+<a href="https://uptimerobot.com/"><img height=40px src="./icons/uptimerobot.png"></a>
+<a href="https://app.freshping.io/"><img height=40px src="./icons/freshping.png"></a>
+<a href="https://instatus.com/"><img height=32.5px src="./icons/instatus_darkmode.png#gh-dark-mode-only"><img height=32.5px src="./icons/instatus_lightmode.png#gh-light-mode-only"></a>
+
+
+## <img src="./icons/link_darkmode.png#gh-dark-mode-only" height=20px><img src="./icons/link_lightmode.png#gh-light-mode-only" height=20px> Connect with me
+
+- <img src="./icons/discord_darkmode.png#gh-dark-mode-only" style="height:17px"><img src="./icons/discord_lightmode.png#gh-light-mode-only" style="height:17px"> AldenizenMC#1418
+- <img src="./icons/stackoverflow_darkmode.png#gh-dark-mode-only" style="height:17px"><img src="./icons/stackoverflow_lightmode.png#gh-light-mode-only" style="height:17px"> [AldenizenMC](https://stackoverflow.com/users/14883530/)
