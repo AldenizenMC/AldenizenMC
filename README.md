@@ -36,8 +36,7 @@ Hi, I'm Alden also known as AldenizenMC online. I am a 13 year old self-taught d
 <a href="https://replit.com/@AldenizenMC#gh-light-mode-only"><img height=40px src="./icons/replit_lightmode.png"></a>
 <a href="https://www.youtube.com/channel/UCN5KNscEIcEATms4e1P5vzw"><img height=40px src="./icons/youtube.png"></a>
 <a href="https://www.reddit.com/user/aldenizen09"><img height=40px src="./icons/reddit.png"></a>
-
-
+___
 <div align=center>
     <!-- Dark Mode -->
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
