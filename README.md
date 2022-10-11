@@ -1,14 +1,4 @@
-<h1 align=center>Hello World! I'm AldenizenMC</h1>
-
-
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="http://github-readme-stats-aldenizenmc.vercel.app/api?username=aldenizenmc&hide_title=true&text_color=ffffff&bg_color=161b22&hide_border=true&show_icons=true&include_all_commits=true&text_bold=false&disable_animations=true&hide_rank=false&card_width=350&cache_seconds=7200">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="http://github-readme-stats-aldenizenmc.vercel.app/api/top-langs/?username=aldenizenmc&title_color=ffffff&text_color=ffffff&bg_color=161b22&hide_border=true&langs_count=5&layout=compact&custom_title=Top%20Languages&card_width=300&cache_seconds=7200">
-    </a>
-</div>
+<h1 align=center>Hello World!</h1>
 
 ## <img src="./icons/wrench_darkmode.png#gh-dark-mode-only" height=20px><img src="./icons/wrench_lightmode.png#gh-light-mode-only" height=20px> Languages and Tools
 
@@ -38,5 +28,18 @@
 
 ## <img src="./icons/link_darkmode.png#gh-dark-mode-only" height=20px><img src="./icons/link_lightmode.png#gh-light-mode-only" height=20px> Connect with me
 
-- <img src="./icons/discord_darkmode.png#gh-dark-mode-only" style="height:17px"><img src="./icons/discord_lightmode.png#gh-light-mode-only" style="height:17px"> AldenizenMC#1418
-- <img src="./icons/stackoverflow_darkmode.png#gh-dark-mode-only" style="height:17px"><img src="./icons/stackoverflow_lightmode.png#gh-light-mode-only" style="height:17px"> [AldenizenMC](https://stackoverflow.com/users/14883530/)
+<a href="https://discord.gg/9h8QHAj2a5"><img height=40px src="./icons/discord.png"></a>
+<a href="https://stackoverflow.com/users/14883530/aldenizenmc"><img height=40px src="./icons/stackoverflow.png"></a>
+<a href="https://replit.com/@AldenizenMC#gh-dark-mode-only"><img height=40px src="./icons/replit_darkmode.png"></a>
+<a href="https://replit.com/@AldenizenMC#gh-light-mode-only"><img height=40px src="./icons/replit_lightmode.png"></a>
+<a href="https://www.youtube.com/channel/UCN5KNscEIcEATms4e1P5vzw"><img height=40px src="./icons/youtube.png"></a>
+<a href="https://www.reddit.com/user/aldenizen09"><img height=40px src="./icons/reddit.png"></a>
+
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="http://github-readme-stats-aldenizenmc.vercel.app/api?username=aldenizenmc&hide_title=true&text_color=ffffff&bg_color=161b22&hide_border=true&show_icons=true&include_all_commits=true&text_bold=false&disable_animations=true&hide_rank=false&card_width=350&cache_seconds=7200">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="http://github-readme-stats-aldenizenmc.vercel.app/api/top-langs/?username=aldenizenmc&title_color=ffffff&text_color=ffffff&bg_color=161b22&hide_border=true&langs_count=5&layout=compact&custom_title=Top%20Languages&card_width=300&cache_seconds=7200">
+    </a>
+</div>
