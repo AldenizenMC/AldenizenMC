@@ -22,15 +22,18 @@
 <a href="https://nodejs.org/"><img height=40px src="./icons/nodejs.png" alt="NodeJS"></a>
 <a href="https://visualstudio.com"><img height=40px src="./icons/visualstudio.png" alt="Visual Studio"></a>
 <a href="https://code.visualstudio.com"><img height=40px src="./icons/vscode.png" alt="Visual Studio Code"></a>
-<a href="https://github.com/"><img height=40px src="./icons/github_darkmode.png#gh-dark-mode-only" alt="GitHub"><img height=40px src="./icons/github_lightmode.png#gh-light-mode-only" alt="GitHub"></a>
+<a href="https://github.com/#gh-dark-mode-only"><img height=40px src="./icons/github_darkmode.png" alt="GitHub"></a>
+<a href="https://github.com/#gh-light-mode-only"><img height=40px src="./icons/github_lightmode.png" alt="GitHub"></a>
 <a href="https://git-scm.com/"><img height=40px src="./icons/git.png"></a>
 <a href="https://www.postman.com/"><img height=40px src="./icons/postman.png"></a>
-<a href="https://replit.com/"><img height=40px src="./icons/replit_darkmode.png#gh-dark-mode-only"><img height=40px src="./icons/replit_lightmode.png#gh-light-mode-only"></a>
+<a href="https://replit.com/"><img height=40px src="./icons/replit_darkmode.png#gh-dark-mode-only"></a>
+<a href="https://replit.com/"><img height=40px src="./icons/replit_lightmode.png#gh-light-mode-only"></a>
 <a href="https://glitch.com/"><img height=35px src="./icons/glitch.png"></a>
 <a href="https://www.mongodb.com/"><img height=40px src="./icons/mongodb.png"></a>
 <a href="https://uptimerobot.com/"><img height=40px src="./icons/uptimerobot.png"></a>
 <a href="https://app.freshping.io/"><img height=40px src="./icons/freshping.png"></a>
-<a href="https://instatus.com/"><img height=32.5px src="./icons/instatus_darkmode.png#gh-dark-mode-only"><img height=32.5px src="./icons/instatus_lightmode.png#gh-light-mode-only"></a>
+<a href="https://instatus.com/"><img height=32.5px src="./icons/instatus_darkmode.png#gh-dark-mode-only"></a>
+<a href="https://instatus.com/"><img height=32.5px src="./icons/instatus_lightmode.png#gh-light-mode-only"></a>
 
 
 ## <img src="./icons/link_darkmode.png#gh-dark-mode-only" height=20px><img src="./icons/link_lightmode.png#gh-light-mode-only" height=20px> Connect with me
