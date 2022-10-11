@@ -37,11 +37,22 @@ Hi, I'm Alden also known as AldenizenMC online. I am a 13 year old self-taught d
 <a href="https://www.youtube.com/channel/UCN5KNscEIcEATms4e1P5vzw"><img height=40px src="./icons/youtube.png"></a>
 <a href="https://www.reddit.com/user/aldenizen09"><img height=40px src="./icons/reddit.png"></a>
 
+
 <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Dark Mode -->
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img src="http://github-readme-stats-aldenizenmc.vercel.app/api?username=aldenizenmc&hide_title=true&text_color=ffffff&bg_color=161b22&hide_border=true&show_icons=true&include_all_commits=true&text_bold=false&disable_animations=true&hide_rank=false&card_width=350&cache_seconds=7200">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img src="http://github-readme-stats-aldenizenmc.vercel.app/api/top-langs/?username=aldenizenmc&title_color=ffffff&text_color=ffffff&bg_color=161b22&hide_border=true&langs_count=5&layout=compact&custom_title=Top%20Languages&card_width=300&cache_seconds=7200">
     </a>
+    <!--------------->
+    <!-- Light Mode -->
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img src="http://github-readme-stats-aldenizenmc.vercel.app/api?username=aldenizenmc&hide_title=true&text_color=000000&bg_color=f6f8fA&hide_border=true&show_icons=true&include_all_commits=true&text_bold=false&disable_animations=true&hide_rank=false&card_width=350&cache_seconds=7200">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img src="http://github-readme-stats-aldenizenmc.vercel.app/api/top-langs/?username=aldenizenmc&title_color=000000&text_color=000000&bg_color=f6f8fA&hide_border=true&langs_count=5&layout=compact&custom_title=Top%20Languages&card_width=300&cache_seconds=7200">
+    </a>
+    <!---------------->
 </div>
