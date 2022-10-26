@@ -8,8 +8,8 @@ Hi, I'm Alden also known as AldenizenMC online. I am a 13 year old self-taught d
 <a href="https://www.typescriptlang.org/"><img height=40px src="./icons/typescript.png" alt="Typescript"></a>
 <a href="https://www.python.org/"><img height=40px src="./icons/python.png"></a>
 <a href="https://csharp.net/"><img height=40px src="./icons/csharp.png"></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img height=40px src="./icons/html.png"></a>
-<a href="https://html.spec.whatwg.org/"><img height=40px src="./icons/css.png"></a>
+<a href="https://html.spec.whatwg.org/"><img height=40px src="./icons/html.png"></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img height=40px src="./icons/css.png"></a>
 <a href="https://bulma.io/"><img height=40px src="./icons/bulma.png"></a>
 <a href="https://nodejs.org/"><img height=40px src="./icons/nodejs.png" alt="NodeJS"></a>
 <a href="https://visualstudio.com"><img height=40px src="./icons/visualstudio.png" alt="Visual Studio"></a>
